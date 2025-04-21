@@ -5,7 +5,7 @@ A Docker-based setup for running Fortify security scans on code repositories.
 ## Prerequisites
 
 - Docker
-- Fortify software (`Fortify_SCA_23.1.0_linux_x64`, `Fortify_Apps_and_Tools_23.1.0_linux_x64.run`)
+- Fortify software (`Fortify_SCA_23.1.0_linux_x64.run`, `Fortify_Apps_and_Tools_23.1.0_linux_x64.run`)
 - Fortify license file (`fortify.license`)
 
 ## Features
