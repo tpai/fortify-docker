@@ -1,0 +1,2 @@
+Key Management: Hardcoded Encryption Key
+Password Management: Hardcoded Password

@@ -1,0 +1,6 @@
+Docs/
+*.tar.gz
+*.run
+Fortify_SCA_23.1.0_linux_x64.run
+Fortify_Apps_and_Tools_23.1.0_linux_x64.run
+fortify.license
